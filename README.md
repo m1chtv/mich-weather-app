@@ -1,5 +1,6 @@
 # Preview
-![mich](https://github.com/m1chtv/mich-weather-app/assets/72360802/7f57e6eb-7524-4256-baff-08aab0126c1e)
+![Screenshot (102)](https://github.com/m1chtv/mich-weather-app/assets/72360802/e01a46b1-7375-4d45-a98b-63dfb024a74a)
+
 
 # mich Weather App
 Description: This program is a weather application that fetches weather information from an API and displays it using a Tkinter-based graphical user interface (GUI). It allows users to search for weather information of a specific location by entering the city name.
