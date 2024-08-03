@@ -120,4 +120,5 @@ description_label.place(x=450, y=430)
 pressure_label = tk.Label(root, text="...", font=("arial", 20, "bold"), bg="#1ab5ef", fg="#404040")
 pressure_label.place(x=670, y=430)
 
+if __name__ = "__main__":
 root.mainloop()
